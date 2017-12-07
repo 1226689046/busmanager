@@ -13,6 +13,12 @@ import util.JDBCTools;
  * @author Wangshirong
  * 
  * 使用前请先配置util包下面StaticClass里面的用户名和密码
+ * 
+ * 本项目github地址  
+ * https://github.com/1226689046/busmanager
+ * 
+ * 
+ * 哈哈哈哈哈
  */
 
 
